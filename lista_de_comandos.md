@@ -14,3 +14,8 @@ git config --global user.name "meu nome"
 
 git config --global user.email "meu@email.com"
 
+## rotina básica do git
+
+git add <arquivo>
+
+git commit -m (mensagem relevante)
