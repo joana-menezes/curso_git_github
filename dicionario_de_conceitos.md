@@ -29,10 +29,20 @@ nao esquecer de salvar com .md os files
 
 main / master
 
-# rotina básica de criação de um ponto na linha do tempo
+## rotina básica de criação de um ponto na linha do tempo
 git add (add o file)
 git commit -m (aicionar mensagem) - (a mensagem precisa ser relevante)
 pq precisa ser relevante? avisa sobre mudança; como o problema foi resolvido; efeitos causados pela alteração; limitações das atualizações feitas. Mais detalhes na mensagem > informação
 git config --global --list (verificar informação)
+
+## novos conceitos 
+- Área de desenvolvimento: Adiciona e modifica os arquivos. Onde está a pasta do projeto, que inicia o repositório (git init)
+
+- Staging area: Organiza o histórico (stig add). Administrar o que pertence junto e o que está separado.
+
+- Repositório local: Local de envio dos commit (versões do arquivo)
+
+
+
 
 
