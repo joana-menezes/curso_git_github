@@ -44,7 +44,14 @@ git config --global --list (verificar informação)
 
 - Repositório local: Local de envio dos commit (versões do arquivo). Encontrado como forma de arquivo na pasta .git a qual deve ser protegido e salvo com cuidado. 
 
+## pq usamos git status?
 
+- Git Status é usado para verificar quais arquivos estão salvos no repositório e seu status.
+- Usado para verificar se os arquivos se encontram todos compilados no repositório. 
+
+`Changes to be commited`mudanças a serem submetivas -> o arquivo encontra-se na area staging (o que significa que ja teve o git add)
+`Untracked files`arquivos novos sem nenhuma versão salva (arquivos nao monitorados)
+`Changes not staged for commit`arquivo com mudanças que não foram enviadas para o staging.
 
 
 
