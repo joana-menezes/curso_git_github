@@ -54,5 +54,9 @@ git config --global --list (verificar informação)
 `Changes not staged for commit`arquivo com mudanças que não foram enviadas para o staging.
 
 
-
+## para sair do git log é so apertar a letra Q de quit
+### informações adicionais para o git log
+`--help`
+`-n <nº> (o n é numero)`
+`--abbrev-commit`
 
