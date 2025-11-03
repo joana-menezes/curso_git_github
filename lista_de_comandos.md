@@ -14,7 +14,7 @@ git config --global user.name "meu nome"
 
 git config --global user.email "meu@email.com"
 
-## rotina básica do git
+## rotina básica do git (esses sempre estarão juntos)
 
 git add <arquivo>
 
