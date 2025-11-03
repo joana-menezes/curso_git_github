@@ -30,3 +30,8 @@ git status -> changes to be commited (file a, file c); changes not staged (file 
 `git status`conferir em qual área meu arquivo está 
 `git add <arquivo>`adicionar na staging area
 `git commit -m`enviar para o repositorio local
+
+`git log`utilizado para ver o histórico de versões do arquivo
+
+# comando para destravar terminal 
+`ctrl z ou x ou c`
