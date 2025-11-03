@@ -4,6 +4,8 @@ GitHub: Funciona como backup da linha do tempo.
 
 ## Subtítulo
 
+NÃO ESQUECER DE SEMPRE ALTERAR DE POWERSHELL PARA WSL (caso a alteração automática não funcione)
+
 ### Sub-subtítulo
 
 - tópico 1
