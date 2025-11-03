@@ -35,3 +35,7 @@ git status -> changes to be commited (file a, file c); changes not staged (file 
 
 # comando para destravar terminal 
 `ctrl z ou x ou c`
+
+# comando git diff e git show
+`git diff`mostra as alterações feitas no repositório alterações velhas e novas
+`git show`mostra mais detalhadamente as alterações mais detalhadamente (no caso mostra o ultimo commit salvo)
