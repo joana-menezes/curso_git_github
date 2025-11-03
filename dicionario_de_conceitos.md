@@ -59,4 +59,11 @@ git config --global --list (verificar informação)
 `--help`
 `-n <nº> (o n é numero)`
 `--abbrev-commit`
+### viajando na linha do tempo
+`git diff <ID versão antiga> <ID versão nova>` -> comparação de pares
+`git show`mostra o ultimo commit salvo no repositório
+
+# local to remote
+## timeline backup
+copiar do git hub no repositório
 
