@@ -39,3 +39,9 @@ git status -> changes to be commited (file a, file c); changes not staged (file 
 # comando git diff e git show
 `git diff`mostra as alterações feitas no repositório alterações velhas e novas
 `git show`mostra mais detalhadamente as alterações mais detalhadamente (no caso mostra o ultimo commit salvo)
+
+`git remote add <name> <ssh>`
+
+# push and pull
+`git push`: mandar informações do computador para o git hub
+`git pull`: puxar informações do git hub para o computador
