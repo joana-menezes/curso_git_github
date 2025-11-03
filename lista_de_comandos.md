@@ -19,3 +19,10 @@ git config --global user.email "meu@email.com"
 git add <arquivo>
 
 git commit -m (mensagem relevante)
+
+# outros comandos
+
+ls (mostra o arquivo)
+ls -la (mostra arquivos escondidos)
+
+git status -> changes to be commited (file a, file c); changes not staged (file b); untracked files (filex)
