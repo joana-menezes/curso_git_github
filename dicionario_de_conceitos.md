@@ -21,5 +21,15 @@ ls - encontrar arquivo
 cd - entrar na pasta
 cd .. - sair da pasta
 
-commit - 
+commit - tornar permanente um conjunto de alterações
 git add file - adicionar file
+
+nao esquecer de salvar com .md os files
+
+main / master
+
+git commit -m (aicionar mensagem) - (a mensagem precisa ser relevante)
+pq precisa ser relevante? avisa sobre mudança; como o problema foi resolvido; efeitos causados pela alteração; limitações das atualizações feitas. Mais detalhes na mensagem > informação
+git config --global --list (verificar informação)
+
+
