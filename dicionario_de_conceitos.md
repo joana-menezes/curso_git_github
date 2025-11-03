@@ -40,7 +40,8 @@ git config --global --list (verificar informação)
 
 - Staging area: Organiza o histórico (stig add). Administrar o que pertence junto e o que está separado.
 
-- Repositório local: Local de envio dos commit (versões do arquivo)
+- Repositório local: Local de envio dos commit (versões do arquivo). Encontrado como forma de arquivo na pasta .git a qual deve ser protegido e salvo com cuidado. 
+
 
 
 
