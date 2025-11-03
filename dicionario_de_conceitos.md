@@ -16,6 +16,7 @@ GitHub: Funciona como backup da linha do tempo.
 
 *italico* 
 
+# alguns comandos usados no vs e git
 pwd - encontrar pasta
 ls - encontrar arquivo
 cd - entrar na pasta
@@ -28,6 +29,8 @@ nao esquecer de salvar com .md os files
 
 main / master
 
+# rotina básica de criação de um ponto na linha do tempo
+git add (add o file)
 git commit -m (aicionar mensagem) - (a mensagem precisa ser relevante)
 pq precisa ser relevante? avisa sobre mudança; como o problema foi resolvido; efeitos causados pela alteração; limitações das atualizações feitas. Mais detalhes na mensagem > informação
 git config --global --list (verificar informação)
