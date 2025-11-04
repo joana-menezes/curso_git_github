@@ -77,6 +77,11 @@ copiar do git hub no repositório
 3. Intermediate files
 - Os arquivos podem ser ignorados quando colocados dentro do arquivo .gitignore 
 
+## Passo a passo colaboração (clone)
+- Fazer pull para visualizar atualizações do colaborador
+- Fazer push a cada alteração que eu fiz no doc do meu colaborador
+- **Não** esquecer do add e commit -m (quando fizer as alterações) git push após conclusão
 
 Sol! 
 
+sol em natal, vamos praiar?
