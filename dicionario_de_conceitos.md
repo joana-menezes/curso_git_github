@@ -90,4 +90,4 @@ Está se sentindo mais programadora hoje??
 Acho que comi muita coxinha ): 
 Acho que o monitor sabe sim do jantar e ele não quis falar pra gente
 
-só pra dar bo
+reescrever
