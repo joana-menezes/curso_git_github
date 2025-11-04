@@ -82,6 +82,8 @@ copiar do git hub no repositório
 - Fazer push a cada alteração que eu fiz no doc do meu colaborador
 - **Não** esquecer do add e commit -m (quando fizer as alterações) git push após conclusão
 
+## Gittag
+
 Sol! 
 
 sol em natal, vamos praiar?
