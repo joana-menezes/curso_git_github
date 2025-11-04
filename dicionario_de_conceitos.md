@@ -84,6 +84,11 @@ copiar do git hub no repositório
 
 ## Gittag
 - Utilizado para sinalizar alteração 
+-> Para mandar as tags para o git hub usasse `git push --tags`
+
+## No GitHub existe uma função de alteração onde apertando (.) abre o git e é possivel alterar e fazer <commit> <push>
+_OBS_ porém não estará na staging area, então as mensagens do commit precisarão estar ainda mais claras. 
+
 
 Sol! 
 
