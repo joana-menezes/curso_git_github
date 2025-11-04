@@ -78,16 +78,5 @@ copiar do git hub no repositório
 - Os arquivos podem ser ignorados quando colocados dentro do arquivo .gitignore 
 
 
+Sol! 
 
-Helloooo!
-Está se sentindo mais programadora hoje?? 
-
-Acho que comi muita coxinha ): 
-Acho que o monitor sabe sim do jantar e ele não quis falar pra gente
-
-
-
-
-
-
-Não consegui ver o seu ajuste do passo a passo da colaboração
