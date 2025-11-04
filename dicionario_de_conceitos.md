@@ -67,3 +67,12 @@ git config --global --list (verificar informação)
 ## timeline backup
 copiar do git hub no repositório
 
+# README.txt
+- Descrição do projeto ou ferramenta utilizada 
+
+# .gitignore
+- Lista de arquivos que **NÃO** serão adicionados ao repositório git
+1. Data files
+2. Backup files
+3. Intermediate files
+- Os arquivos podem ser ignorados quando colocados dentro do arquivo .gitignore 
