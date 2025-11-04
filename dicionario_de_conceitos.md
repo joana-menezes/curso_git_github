@@ -83,11 +83,3 @@ copiar do git hub no repositório
 - **Não** esquecer do add e commit -m (quando fizer as alterações) git push após conclusão
 
 
-
-Helloooo!
-Está se sentindo mais programadora hoje?? 
-
-Acho que comi muita coxinha ): 
-Acho que o monitor sabe sim do jantar e ele não quis falar pra gente
-
-reescrever
