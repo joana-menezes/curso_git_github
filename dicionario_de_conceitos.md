@@ -90,6 +90,4 @@ copiar do git hub no repositório
 _OBS_ porém não estará na staging area, então as mensagens do commit precisarão estar ainda mais claras. 
 
 
-Sol! 
 
-sol em natal, vamos praiar?
