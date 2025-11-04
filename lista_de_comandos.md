@@ -80,3 +80,6 @@ git status -> changes to be commited (file a, file c); changes not staged (file 
 
 `git commit -m`enviar para o repositorio local
 >>>>>>> 43b71a489bd1fbacad9d5d19e0cff3decb6ff561
+
+# comando git clone
+- Faz cópia de um repositório inteiro (quando em colaboraçao)
