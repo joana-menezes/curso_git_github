@@ -83,6 +83,7 @@ copiar do git hub no repositório
 - **Não** esquecer do add e commit -m (quando fizer as alterações) git push após conclusão
 
 ## Gittag
+- Utilizado para sinalizar alteração 
 
 Sol! 
 
