@@ -76,3 +76,8 @@ copiar do git hub no repositório
 2. Backup files
 3. Intermediate files
 - Os arquivos podem ser ignorados quando colocados dentro do arquivo .gitignore 
+
+
+
+Helloooo!
+Está se sentindo mais programadora hoje?? 
